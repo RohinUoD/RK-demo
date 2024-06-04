@@ -1,2 +1,2 @@
 # RK-demo
-This is my repository.
+This is my first git repository.
