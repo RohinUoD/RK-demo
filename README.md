@@ -1,4 +1,4 @@
 # RK-demo
 This is my first git repository.
 <br>
-author- Rohin Kumar.
+author- RohinKumar.
